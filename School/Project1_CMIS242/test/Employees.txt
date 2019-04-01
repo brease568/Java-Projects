@@ -1,0 +1,20 @@
+2014 Employee Strawser,Monserrate 1000
+2014 Employee Rickert,Vern 2000
+2014 Employee Berner,Loraine 3000
+2014 Employee Boothe,Joanne 4000
+2014 Salesman Briles,India 1000 10000
+2014 Salesman Carra,Mandie 2000 20000
+2014 Salesman Creel,Sandra 3000 30000
+2014 Executive Lehman,Hillary 10000 10
+2014 Executive Heisey,Lorine 11000 25
+2014 Executive Tank,Lorrine 12000 75
+2015 Employee Abad,Brandi 5000
+2015 Employee Dever,Ria 6000
+2015 Employee Ellerman,Clara 7000
+2015 Employee Kehl,Scarlett 8000
+2015 Salesman Loll,Sharda 4000 40000
+2015 Salesman Converse,Rubi 5000 50000
+2015 Salesman Mosher,Calista 6000 60000
+2015 Executive Crichton,Conception 13000 25
+2015 Executive Corbeil,Mario 14000 50
+2015 Executive Gettinger,Pearline 15000 65
