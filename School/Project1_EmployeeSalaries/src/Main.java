@@ -6,7 +6,7 @@ Purpose: Write a program that computes the salaries for a collection of -
 employees of different types.
  */
 
-package com.brianrease;
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
